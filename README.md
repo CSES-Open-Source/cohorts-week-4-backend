@@ -169,7 +169,7 @@ Be sure to specify the database name, for example:
 mongodb+srv://admin:mypassword@cluster0.a1b2c3.mongodb.net/counter
 ```
 ---
-### Step 7: Replace Default Files
+## Step 7: Replace Default Files
 
 We’ll now copy over your prepared files from
 root/template/ into the new full-stack project.
