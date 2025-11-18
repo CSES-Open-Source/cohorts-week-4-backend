@@ -1,13 +1,3 @@
-Here is your **fully rewritten Week 4 README**, now with the **correct renumbered TODOs** matching your intended teaching sequence.
-
-This version is clean, consistent with your Week 3 style, beginner friendly, and easy for students to follow step by step.
-
-No dashes in sentences.
-No emojis.
-Forward thinking and direct.
-
----
-
 # Cohorts Week 4: Counter App Backend
 
 Clone the starter backend project
